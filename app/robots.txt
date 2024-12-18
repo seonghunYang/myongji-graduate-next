@@ -3,4 +3,4 @@ Disallow: /my/
 Disallow: /result/
 Allow: /
 
-Sitemap: https://mju-graduate.com/sitemap.xml
+Sitemap: https://myongji-graduate-next-performance-test.vercel.app/sitemap.xml
